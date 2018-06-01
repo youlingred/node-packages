@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "VUE Axios插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youlingred/kevin-vue-axios.git"
+  },
+  "keywords": [
+    "vue",
+    "axios",
+    "kevin"
+  ],
+  "author": "xiehui <30897863@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youlingred/kevin-vue-axios/issues"
+  },
+  "homepage": "https://github.com/youlingred/kevin-vue-axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10",
+    "qs": "^6.5.2"
+  }
+}
