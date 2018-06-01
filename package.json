@@ -2,5 +2,5 @@
   "devDependencies": {
     "lerna": "^2.9.0"
   },
-  "repository": "git remote add origin https://github.com/youlingred/node-plugins.git"
+  "repository": "git remote add origin https://github.com/youlingred/node-packages.git"
 }
